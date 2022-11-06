@@ -1,0 +1,15 @@
+# Test
+pytest
+pytest-cov
+pytest-mock
+pytest-xdist[psutil]
+pytest-memray
+pyhamcrest
+freezegun
+# Linters
+black
+isort
+flake8
+flake8-pydocstyle
+mypy
+types-psutil
